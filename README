@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=11
+
+Read script file for macro definition. You can draw some box, line or arrow
+by marking an area in visual mode in vim. Both corner of the visual selection
+are the point used for drawing.
+
+The script is vim 5.4 compatible.
